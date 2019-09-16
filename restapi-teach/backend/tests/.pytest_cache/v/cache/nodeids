@@ -1,0 +1,10 @@
+[
+  "cases/course1/test_couses11.py::TestCourse::()::test_listCourse",
+  "cases/course1/test_couses11.py::TestCourse::()::test_delCourse",
+  "cases/course1/test_couses12.py::TestCourse::()::test_listCourse",
+  "cases/course1/test_couses12.py::TestCourse::()::test_delCourse",
+  "cases/course2/test_couses21.py::TestCourse::()::test_listCourse",
+  "cases/course2/test_couses21.py::TestCourse::()::test_delCourse",
+  "cases/course2/test_couses22.py::TestCourse::()::test_listCourse",
+  "cases/course2/test_couses22.py::TestCourse::()::test_delCourse"
+]

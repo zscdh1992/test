@@ -1,0 +1,17 @@
+.idea
+.project
+.pydevproject
+.vscode
+*.py[cod]
+*.bak
+*.log*
+*.sqlite3
+*.qiniu*
+/**/*.pid
+workspace.xml
+node_modules/
+__pycache__/
+z_dist/
+migrations/
+log/
+
